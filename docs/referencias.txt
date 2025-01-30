@@ -1,0 +1,31 @@
+# Referencias para aprender Git
+
+1. Pro Git (Libro gratuito)
+    URL: https://git-scm.com/book/en/v2
+
+2. GitHub Learning Lab
+    URL: https://lab.github.com/
+
+3. Atlassian Git Tutorial
+    URL: https://www.atlassian.com/git/tutorials
+
+4. Git Cheat Sheet
+    URL: https://education.github.com/git-cheat-sheet-education.pdf
+
+5. Git - La guía sencilla
+    URL: https://rogerdudler.github.io/git-guide/index.es.html
+
+6. GitHub Docs
+    URL: https://docs.github.com/en/get-started/quickstart
+
+7. GitKraken Git Tutorial
+    URL: https://www.gitkraken.com/learn/git/tutorials
+
+8. Learn Git Branching (Interactivo)
+    URL: https://learngitbranching.js.org/
+
+9. Git Immersion
+    URL: http://gitimmersion.com/
+
+10. Try Git
+     URL: https://try.github.io/
